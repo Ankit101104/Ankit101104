@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd-year Computer Science student 🎓💻,<br>Gaining expertise in full-stack web development 🌐,<br>Currently working on various projects in team as well as solo.💥<br><br><br><br>
+I am a final year Computer Science student 🎓💻,<br>Gaining expertise in full-stack web development 🌐,<br>Currently working on various projects in team as well as solo.💥<br><br><br><br>
 
 
 ## 🌐 Socials:
